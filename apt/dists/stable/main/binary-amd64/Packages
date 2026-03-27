@@ -4,10 +4,10 @@ Architecture: amd64
 Maintainer: ChimeraSec <dev@chimerasec.com>
 Installed-Size: 75068
 Filename: pool/chimeravpn_1.0.1_amd64.deb
-Size: 30748538
-MD5sum: cf979668f7b2648fbf5ff25bf4049bbb
-SHA1: fb728b63fdc03e028a134c01e8e1339b89b6dca9
-SHA256: c5845b95b2a061326105c4fc4c42275f7e6146e414d8c56f2c1c142abefd8ed8
+Size: 30748574
+MD5sum: a48646de7af95ace74aeb9da57d46a5a
+SHA1: 4d59c559edd11fd0da0bd40ecdd350d5c2ebcb97
+SHA256: 0216723e9b634cb70a01e9c238d64f6204cac783e27200e6ab8373d00b215a58
 Section: net
 Priority: optional
 Homepage: https://chimerasec.com

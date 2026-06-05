@@ -66,3 +66,20 @@ Description: ChimeraVPN - Secure WireGuard-based VPN client.
  Connect your devices into a secure WireGuard-based overlay network
  with SSO, MFA, and granular access controls.
 
+Package: chimeravpn
+Version: 1.1.1
+Architecture: amd64
+Maintainer: ChimeraSec <dev@chimerasec.com>
+Installed-Size: 76396
+Filename: pool/chimeravpn_1.1.1_amd64.deb
+Size: 31216028
+MD5sum: d32aa370b83a001170f3ba557296d276
+SHA1: fe09757bdf65099034a3cee97fed4af2a57f0314
+SHA256: c75cd140cf5cda75474cf6353b9ea95dead4fa5a7d52524b1252e0a187b8b065
+Section: net
+Priority: optional
+Homepage: https://chimerasec.com
+Description: ChimeraVPN - Secure WireGuard-based VPN client.
+ Connect your devices into a secure WireGuard-based overlay network
+ with SSO, MFA, and granular access controls.
+
